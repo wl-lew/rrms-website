@@ -1,0 +1,166 @@
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 60px;
+    padding: 1rem 2rem;
+    color: #FF914D;
+    font-weight: bold;
+}
+
+.mainLogo img {
+    height: 55px;
+}
+
+nav a {
+    margin: 0 2rem;
+    color: #004AAD;
+    text-decoration: none;
+    font-size: 20px;
+    float: left;
+    display: block;
+    text-align: center;
+    padding: 10px 14px;
+    font-weight: bold;
+}
+
+nav a:hover {
+    background-color: #FF914D;
+    border-radius: 20px;
+}
+
+header .nav-btn {
+    padding: 5px;
+    cursor: pointer;
+    background-color: #c0e5f6;
+    border: none;
+    outline: none;
+    color: black;
+    visibility: hidden;
+    opacity: 0;
+    font-size: 1.8rem;
+}
+
+header .responsive_nav {
+    transform: none;
+}
+
+nav .nav-close-btn {
+    position: absolute;
+    top: 2rem;
+    right: 2rem;
+    background-color: white;
+}
+
+.dropdown {
+    float: left;
+    overflow: hidden;
+}
+
+.drop-btn {
+    margin: 0 2rem;
+    color: #004AAD;
+    text-decoration: none;
+    font-size: 20px;
+    border: none;
+    outline: none;
+    padding: 10px 14px;
+    background-color: inherit;
+    font-family: inherit;
+    font-weight: bold;
+}
+
+.drop-content {
+    display: none;
+    position: absolute;
+    background-color: white;
+    min-width: 150px;
+    z-index: 1;
+    border-radius: 20px;
+    margin-left: 32px;
+}
+
+.dropdown:hover .drop-btn {
+    background-color: #FF914D;
+    border-radius: 20px;
+}
+
+.dropdown:hover .drop-content {
+    display: block;
+}
+
+.drop-content a {
+    float: none;
+    color: #004AAD;
+    padding: 10px 14px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+    margin: 0;
+}
+
+@media only screen and (max-width: 1040px) {
+    header .nav-btn {
+        visibility: visible;
+        opacity: 1;
+    }
+
+    header nav {
+        position: fixed;
+        top: 0;
+        left: 0;
+        height: 85%;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap: 1.5rem;
+        background-color: white;
+        transition: 0.5s;
+        transform: translateY(-100vh);
+        z-index: 1;
+    }
+
+    .responsive_nav .drop-content {
+        position: relative;
+        margin-left: 0;
+        border-radius: 10px;
+        background-color: white;
+    }
+
+    .responsive_nav .drop-content a {
+        border-radius: 10px;
+        background-color: white;
+        color: #004AAD;
+        text-align: center;
+        margin: 5px;
+        font-size: 22px;
+        border: 2px solid #004AAD;
+    }
+
+    .responsive_nav .drop-btn, .responsive_nav a {
+        font-size: 22px;
+        border: 2px solid #004AAD;
+        border-radius: 10px;
+        min-width: 250px;
+    }
+
+    .responsive_nav a {
+        font-size: 22px;
+        border: 2px solid #004AAD;
+        border-radius: 10px;
+        min-width: 220px;
+    }
+
+    .responsive_nav .dropdown:hover .drop-btn {
+        background-color: #FF914D;
+        border-radius: 10px;
+        color: #004AAD;
+        margin-bottom: 10px;
+    }
+
+    .responsive_nav a:hover {
+        border-radius: 10px;
+    }
+}

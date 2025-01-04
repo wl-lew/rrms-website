@@ -1,0 +1,33 @@
+#neuron-foto {
+    height: 155px;
+    float: left;
+    margin-top: 10px;
+    margin-right: 15px;
+}
+
+#foto-doctor {
+    height: 185px;
+    float: left;
+    margin-top: 10px;
+    margin-right: 15px;
+}
+
+#lifestyle-foto {
+    height: 165px;
+    float: left;
+    margin-top: 10px;
+    margin-right: 15px;
+}
+
+@media only screen and (max-width: 650px) {
+    #neuron-foto, #foto-doctor, #lifestyle-foto {
+        height: auto;
+        width: 75%;
+        float: none;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 20px;
+        display: block;
+        text-align: center;
+    }
+}

@@ -1,0 +1,46 @@
+{
+  "mainTitle": "Objawy RRMS",
+  "firstParagraph": "Rzutowo-remisyjna postać stwardnienia rozsianego (ang. relapsing-remitting multiple sclerosis, RRMS) jest najczęstszą formą tej choroby, na którą choruje około 80-85% zdiagnozowanych pacjentów ",
+  "secondParagraph": " Charakteryzuje się ona atakami (inaczej rzutami) objawów natury neurologicznej. Po nich pojawia się remisja, czyli okresy częściowego lub też całkowitego powrotu do zdrowia ",
+  "thirdParagraph": "RRMS charakteryzuje się występowaniem charakterystycznych symptomów, które utrzymują się dłużej niż 24 godziny. Kluczowa jest w tym przypadku uważna obserwacja organizmu i nieignorowanie objawów, ponieważ mogą one świadczyć o zachodzących w ośrodkowym układzie nerwowym nieodwracalnych zmianach ",
+  "fourthParagraph": [
+    {
+      "description": "Najczęstszymi objawami, które występują podczas rzutu w min. 50% przypadków są ",
+      "symptoms": [
+        "zmęczenie;",
+        "zaburzenia równowagi;",
+        "drętwienie kończyn;",
+        "trudności w zapamiętywaniu;",
+        "ból."
+      ]
+    }
+  ],
+  "fifthParagraph": [
+    {
+      "description": "Poza nimi mogą wystąpić również ",
+      "symptoms": [
+        "skurcze mięśni;",
+        "problemy z koncentracją;",
+        "problemy ze wzrokiem;",
+        "nietrzymanie moczu;",
+        "depresja;",
+        "sztywność kończyn;",
+        "zawroty głowy;",
+        "zaparcia;",
+        "wahania nastroju;",
+        "drażliwość;",
+        "problemy natury seksualnej;",
+        "problemy z mówieniem;",
+        "drżenie ciała;",
+        "swędzenie;",
+        "problemy z połykaniem;",
+        "utrata słuchu;",
+        "problemy z oddychaniem;",
+        "biegunka;",
+        "napady padaczkowe."
+      ]
+    }
+  ],
+  "sixthParagraph": "Wszystkie powyższe objawy mogą znacząco wpłynąć na jakość Twojego życia oraz produktywność, dlatego nie należy ich lekceważyć. Warto jak najszybciej skonsultować się z najbliższym specjalistą, najlepiej neurologiem, który pomoże podjąć odpowiednie kroki w kierunku diagnozy i leczenia. Mapę placówek, w których możesz rozpocząć diagnostykę oraz leczenie RRMS znajdziesz ",
+  "seventhParagraph": " Pamiętaj, że troska o swoje zdrowie to najważniejszy krok w kierunku pełniejszego i szczęśliwszego życia."
+}

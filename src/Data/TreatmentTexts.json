@@ -1,0 +1,31 @@
+{
+  "mainTitle": "Leczenie RRMS",
+  "firstParagraph": "W przypadku RRMS ważne jest jak najszybsze podjęcie leczenia, które obejmuje kilka istotnych aspektów. Proces terapeutyczny koncentruje się na: leczeniu rzutów, modyfikacji przebiegu choroby oraz rehabilitacji. Każdy z tych elementów jest ważny pod kątem zarządzania chorobą oraz poprawy jakości życia pacjenta, umożliwiając lepsze radzenie sobie z jej objawami oraz spowolnienie jej postępu.",
+  "secondParagraph": "Leczenie rzutów w przebiegu RRMS polega na zastosowaniu sterydoterapii, która ma na celu złagodzenie objawów i skrócenie czasu trwania rzutu. Kiedy pacjent trafia do szpitala, podawany jest mu przez kroplówkę lek o nazwie Solu-Medrol, który jest powszechnie stosowany w przypadku zaostrzenia stwardnienia rozsianego. Ważne jest, aby rozpocząć leczenie jak najszybciej po wystąpieniu rzutu, ponieważ im szybciej zacznie się terapia, tym większa szansa na złagodzenie objawów. Czas trwania leczenia zależy od nasilenia rzutu – im silniejsze są objawy, tym dłuższa może być kuracja ",
+  "thirdParagraph": "Na polskim rynku jest kilka leków, które mogą długotrwale zmodyfikować przebieg RRMS. Dzielą się one na pierwszą oraz drugą linię leczenia. Do każdej z nich neurolog indywidualnie przydziela pacjenta zgodnie, m.in. z punktacją EDSS (ang. Expanded Disability Status Scale), która służy do pomiaru stopnia zaawansowania stwardnienia rozsianego ",
+  "fourthParagraph": "Leczenie RRMS rozpoczyna się zazwyczaj od I linii leczenia. Są to leki, które mają umiarkowaną skuteczność w kontrolowaniu choroby, ale ich zaletą jest to, że są dobrze tolerowane przez większość pacjentów. Pomimo, że nie zawsze całkowicie zatrzymują postęp choroby, to jednak mogą skutecznie zmniejszać częstotliwość i nasilenie rzutów, jednocześnie wywołując mniej skutków ubocznych. Do leków pierwszej linii zaliczamy ",
+  "medicinesFirst": [
+    "Avonex;",
+    "Rebif 44;",
+    "Betaferon;",
+    "Extavia;",
+    "Tecfidera;",
+    "Aubagio;",
+    "Zeposia;",
+    "Ponvory;",
+    "Kesimpta;",
+    "Ocrevus;",
+    "Mavenclad."
+  ],
+  "fifthParagraph": "Leki drugiej linii są skierowane dla osób, u których stwardnienie rozsiane rozwija się w bardziej agresywny sposób lub gdy leki pierwszej linii nie przynoszą oczekiwanych rezultatów. Są to leki o wyższej skuteczności, co oznacza, że mogą lepiej niż leki pierwszego typu kontrolować objawy i spowalniać postęp choroby. Jednak ich stosowanie wiąże się z większym ryzykiem wystąpienia skutków ubocznych, ponieważ organizm pacjenta może je gorzej tolerować. Mimo to, dla osób, u których choroba postępuje szybko, leki drugiej linii mogą być niezbędne do skutecznego zapobiegania dalszego rozwoju stwardnienia rozsianego. Do leków drugiej linii można zaliczyć ",
+  "medicinesSecond": [
+    "Gilenya;",
+    "Tysabri;",
+    "Mavenclad;",
+    "Ocrevus;",
+    "Lemtrada."
+  ],
+  "sixthParagraph": "Terapie tego typu muszą być dobierane indywidualnie. Powyższych leków nie kupisz w aptece – są wydawane przez lekarzy po wcześniejszym zakwalifikowaniu się do programu leczenia. Jeśli jesteś zainteresowany dołączeniem do takiego programu, warto porozmawiać o tym ze swoim neurologiem, który przeprowadzi odpowiednie badania i pomoże podjąć właściwe kroki.",
+  "seventhParagraph": "Rehabilitacja w przypadku rzutowo-remisyjnej postaci stwardnienia rozsianego powinna obejmować aspekty fizyczne oraz psychologiczne. Rehabilitacja ruchowa jest niezwykle ważna, ponieważ pomaga wzmocnić mięśnie, poprawić równowagę, zmniejszyć spastyczność, czyli sztywność mięśni, oraz skoordynować podstawowe odruchy, które mogą być osłabione przez chorobę. Regularne ćwiczenia fizyczne dostosowane do potrzeb pacjenta mogą znacząco poprawić codzienne funkcjonowanie i jakość życia. Równie istotna jest rehabilitacja psychologiczna, która pomaga pacjentom radzić sobie z emocjonalnymi i psychicznymi wyzwaniami związanymi z chorobą ",
+  "eighthParagraph": "W Polsce istnieje wiele ośrodków, które organizują specjalne turnusy rehabilitacyjne przeznaczone dla osób zmagających się z RRMS. Takie turnusy są bardzo dobrą okazją, aby skorzystać z intensywnej i kompleksowej opieki, która obejmuje zarówno rehabilitację fizyczną, jak i wsparcie psychologiczne. Możesz je znaleźć na "
+}

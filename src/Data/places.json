@@ -1,0 +1,344 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "KOMR w Dąbku",
+        "address": "Dąbek 129, Dąbek",
+        "page": "https://www.komrdabek.pl/"
+      },
+      "geometry": {
+        "coordinates": [
+          20.3672688,
+          53.0099441
+        ],
+        "type": "Point"
+      },
+      "id": 0
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Centrum Rehabilitacji SM w Bornem Sulinowie",
+        "address": "Szpitalna 5, Borne Sulinowo",
+        "page": "https://www.centrumsm.pl/"
+      },
+      "geometry": {
+        "coordinates": [
+          16.5369702,
+          53.584015
+        ],
+        "type": "Point"
+      },
+      "id": 1
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Centrum Medyczne Neuro-Care",
+        "address": "Pawła Kołodzieja 8, Katowice",
+        "page": "https://www.neuro-care.pl/poradnie-i-centra/poradnia-neurologiczna/centrum-leczenia-stwardnienia-rozsianego"
+      },
+      "geometry": {
+        "coordinates": [
+          19.0536567,
+          50.1989871
+        ],
+        "type": "Point"
+      },
+      "id": 2
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Centrum Medyczne NeuroProtect",
+        "address": "Klaudyny 16C, Warszawa",
+        "page": "https://neuroprotect.pl/cherry-services/poradnia-sm/"
+      },
+      "geometry": {
+        "coordinates": [
+          20.9733229,
+          52.2821417
+        ],
+        "type": "Point"
+      },
+      "id": 3
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Neurolog prof. dr hab. Jacek Losy",
+        "address": "Drużbickiego 7, Poznań",
+        "page": "https://neurolog-sm.com/oferta/diagnostyka-i-leczenie-stwardnienia-rozsianego/"
+      },
+      "geometry": {
+        "coordinates": [
+          16.918309,
+          52.4393448
+        ],
+        "type": "Point"
+      },
+      "id": 4
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Szpital MSWiA w Poznaniu",
+        "address": "Dojazd 34, Poznań",
+        "page": "https://www.szpitalmswia.poznan.pl/leczenie-sm-w-szpitalu-mswia-w-poznaniu/"
+      },
+      "geometry": {
+        "coordinates": [
+          16.9045918,
+          52.4369323
+        ],
+        "type": "Point"
+      },
+      "id": 5
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Miejskie Centrum Medyczne JONSCHER",
+        "address": "Milionowa 14, Łódź",
+        "page": "https://jonscher.pl/poradnia-stwardnienia-rozsianego-milionowa"
+      },
+      "geometry": {
+        "coordinates": [
+          19.4849247,
+          51.7522297
+        ],
+        "type": "Point"
+      },
+      "id": 6
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stowarzyszenie Pomocy Osobom Chorym na SM",
+        "address": "Szeroka 10C/1, Białystok",
+        "page": "https://spis.ngo.pl/199823-stowarzyszenie-pomocy-osobom-chorym-na-stwardnienie-rozsiane"
+      },
+      "geometry": {
+        "coordinates": [
+          23.10821,
+          53.14962
+        ],
+        "type": "Point"
+      },
+      "id": 7
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Specjalistyczny Oddział Neurologiczny",
+        "address": "3-go Maja 13, Zabrze",
+        "page": "https://www.szpital.zabrze.pl/oddzialy-dla-doroslych/oddzial-neurologiczny"
+      },
+      "geometry": {
+        "coordinates": [
+          18.7857822,
+          50.3020948
+        ],
+        "type": "Point"
+      },
+      "id": 8
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Centrum Neurologii Krzysztof Selmaj",
+        "address": "Tylna 12, Łódź",
+        "page": "https://www.selmaj.pl/"
+      },
+      "geometry": {
+        "coordinates": [
+          19.473029,
+          51.753787
+        ],
+        "type": "Point"
+      },
+      "id": 9
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Poradnia stwardnienia rozsianego",
+        "address": "Kalwaryjska 32/11, Kraków",
+        "page": "https://www.fundacjahh.org/nfz/poradnia-stwardnienia-rozsianego/"
+      },
+      "geometry": {
+        "coordinates": [
+          19.94401,
+          50.04236
+        ],
+        "type": "Point"
+      },
+      "id": 10
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rzeszowski Klub Chorych na Stwardnienie Rozsiane im. Jana Pawła II",
+        "address": "Lubelska 13, Rzeszów",
+        "page": "https://spis.ngo.pl/194492-rzeszowski-klub-chorych-na-stwardnienie-rozsiane-im-jana-pawla-ii"
+      },
+      "geometry": {
+        "coordinates": [
+          22.00005,
+          50.04924
+        ],
+        "type": "Point"
+      },
+      "id": 11
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Poradnia stwardnienia rozsianego",
+        "address": "gen. Fieldorfa 2, Wrocław",
+        "page": "https://placowki.mp.pl/unit/index.html?id=678685"
+      },
+      "geometry": {
+        "coordinates": [
+          16.90767,
+          51.14423
+        ],
+        "type": "Point"
+      },
+      "id": 12
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PTSR Oddział Wojewódzki w Gdańsku",
+        "address": "Wita Stwosza 73/25-26, Gdańsk",
+        "page": "https://ptsr.org.pl/oddzialy/23,ptsr-oddzial-wojewodzki-w-gdansku"
+      },
+      "geometry": {
+        "coordinates": [
+          18.57784,
+          54.3918
+        ],
+        "type": "Point"
+      },
+      "id": 13
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PTSR Oddział Wojewódzki w Szczecinie",
+        "address": "Dworcowa 19, Szczecin",
+        "page": "https://ptsr.org.pl/oddzialy/24,ptsr-oddzial-wojewodzki-w-szczecinie"
+      },
+      "geometry": {
+        "coordinates": [
+          14.55241,
+          53.42245
+        ],
+        "type": "Point"
+      },
+      "id": 14
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Biegusy - Stowarzyszenie Chorych na SM",
+        "address": "Sucharskiego 17, Zielona Góra",
+        "page": "https://www.biegusy.zgora.pl/"
+      },
+      "geometry": {
+        "coordinates": [
+          15.48745,
+          51.9333
+        ],
+        "type": "Point"
+      },
+      "id": 15
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PTSR Oddział w Lublinie",
+        "address": "Okopowa 5, Lublin",
+        "page": "https://www.ptsr-lublin.pl/#lHistoryIndex=0"
+      },
+      "geometry": {
+        "coordinates": [
+          22.55639,
+          51.246
+        ],
+        "type": "Point"
+      },
+      "id": 16
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kieleckie Stowarzyszenie Chorych na SM",
+        "address": "Zagórska 14, Kielce",
+        "page": "https://smkielce.pl/"
+      },
+      "geometry": {
+        "coordinates": [
+          20.63994,
+          50.86652
+        ],
+        "type": "Point"
+      },
+      "id": 17
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PTSR oddział w Olsztynie",
+        "address": "Piłsudskiego 7/9, pok. nr 14, Olsztyn",
+        "page": "https://wmson.pl/zrzeszeni/polskie-towarzystwo-stwardnienia-rozsianego-w-olsztynie/"
+      },
+      "geometry": {
+        "coordinates": [
+          20.48611,
+          53.77749
+        ],
+        "type": "Point"
+      },
+      "id": 18
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Centrum medyczne NeuroMed",
+        "address": "Jana Biziela 14, Bydgoszcz",
+        "page": "https://neuromed.com.pl/2019/07/01/stwardnienie-rozsiane/"
+      },
+      "geometry": {
+        "coordinates": [
+          18.02061,
+          53.115599
+        ],
+        "type": "Point"
+      },
+      "id": 19
+    }
+  ]
+}

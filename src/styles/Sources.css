@@ -1,0 +1,35 @@
+.source {
+    color: black;
+    text-decoration: none;
+}
+
+.source:hover {
+    color: black;
+}
+
+.sources-table {
+    width: 100%;
+    border-collapse: collapse;
+    table-layout: fixed;
+    line-height: 28px;
+}
+
+.sources-table td {
+    padding: 10px;
+    border: none;
+    vertical-align: top;
+}
+
+.sources-table td a {
+    text-decoration: none;
+    color: black;
+}
+
+.sources-table td a:hover {
+    color: #004AAD;
+}
+
+.sources-table td:first-child {
+    width: 3%;
+    font-weight: bold;
+}

@@ -1,0 +1,11 @@
+services:
+  rrms-page:
+    build:
+      context: .
+    container_name: rrms-page
+    env_file:
+      - .env
+    ports:
+      - "${PORT}:${PORT}"
+    environment:
+      - NODE_ENV=production

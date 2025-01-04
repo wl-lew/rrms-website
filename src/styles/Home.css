@@ -1,0 +1,86 @@
+.headDiv {
+    background-color: lightblue;
+    width: 100%;
+    text-align: center;
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+
+.mainTitle {
+    color: #004AAD;
+    font-size: 38px;
+}
+
+.mainSubtitle {
+    font-size: 22px;
+    font-style: italic;
+}
+
+.contentDiv {
+    max-width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+    padding-top: 5px;
+}
+
+.contentDivText {
+    line-height: 1.9;
+}
+
+.contentDivTitle {
+    font-weight: bold;
+    font-size: 20px;
+    color: #004AAD;
+    text-align: center;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.line {
+    width: 100%;
+    height: 2px;
+    background: linear-gradient(90deg, #c0e5f6 0%, #FF914D 50%, #c0e5f6 100%);
+    border: 0;
+}
+
+#fotoQuestions {
+    height: 185px;
+    float: left;
+    margin-top: 10px;
+    margin-right: 15px;
+}
+
+#fotoDetective {
+    height: 155px;
+    float: left;
+    margin-top: 10px;
+    margin-right: 15px;
+}
+
+#four-people {
+    height: 130px;
+    float: right;
+    margin-top: 10px;
+    margin-right: 15px;
+}
+
+
+@media only screen and (max-width: 950px) {
+    .contentDivText {
+        text-align: left;
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+}
+
+@media only screen and (max-width: 650px) {
+    #fotoQuestions, #four-people, #fotoDetective {
+        height: auto;
+        width: 50%;
+        float: none;
+        text-align: center;
+        display: block;
+        margin: 0 auto;
+    }
+}

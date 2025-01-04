@@ -1,0 +1,86 @@
+.map-container {
+    height: 500px;
+    max-width: 100%;
+    border-style: solid;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+#pMap {
+    margin-left: 8px;
+    margin-right: 8px;
+    text-align: center;
+    font-style: italic;
+}
+
+#lineMap {
+    margin-top: 20px;
+}
+
+.marker {
+    background-image: url("../img/mapMarker.png");
+    background-size: cover;
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.pop-content {
+    text-align: center;
+    font-size: 18px;
+
+}
+
+.pop-name {
+    font-weight: bold;
+    margin-top: 5px;
+    text-decoration: none;
+    color: black;
+}
+
+.pop-name:hover {
+    color: #004AAD;
+}
+
+.pop-address {
+    font-size: 16px;
+    font-style: italic;
+}
+
+.expertLoc {
+    text-align: center;
+}
+
+.expertLoc p {
+    font-size: 20px;
+}
+
+.listElements {
+    max-width: 100%;
+    border-style: solid;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 30px;
+    border-radius: 20px;
+    text-decoration: none;
+    color: black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    line-height: 30px;
+}
+
+.listElements:hover {
+    background-color: #FF914D;
+}
+
+.listElementName {
+    text-decoration: none;
+    color: black;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.listElementName:hover {
+    color: #004AAD;
+}

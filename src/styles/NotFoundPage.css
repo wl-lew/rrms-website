@@ -1,0 +1,21 @@
+#contentDivNotFound {
+    margin-top: 30px;
+    margin-bottom: 600px;
+}
+
+.buttonNotFound {
+    background-color: #004AAD;
+    padding: 20px;
+    border-radius: 15px;
+    border-color: black;
+}
+
+.buttonNotFound:hover {
+    background-color: #115BBE;
+}
+
+.notFound-a {
+    color: white;
+    text-decoration: none;
+    font-size: 22px;
+}
